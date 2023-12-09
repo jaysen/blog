@@ -1,5 +1,6 @@
 ## The Bliki Site 
-- A blog and wiki [Bliki on c2 wiki](http://wiki.c2.com/?Bliki)
+- A blog and wiki hybrid
+  - see https://martinfowler.com/bliki/WhatIsaBliki.html 
 - using Github repo and/or Github pages.
 - with Jekyll or similar to convert md to html using templates.
 - Combining it with an Obsidian.md vault
