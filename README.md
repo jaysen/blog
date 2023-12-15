@@ -15,3 +15,7 @@
   - [Obsidian.md](https://obsidian.md/) is a markdown based note taking app
   - It has a plugin to publish to a static site (using Jekyll) (???)
   - Github publisher plugin for Obsidian.md
+- RSS feed
+  - using Jekyll or Pelican (?)
+- ActivityPub support
+  - Blog & wiki posts as [ActivityPub](https://www.w3.org/TR/activitypub/) activities

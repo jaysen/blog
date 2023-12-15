@@ -25,3 +25,10 @@
   - https://github.com/ObsidianPublisher/obsidian-github-publisher
 - Python project to convert Obsidian.md vault to Jekyll site
   - https://github.com/adriansteffan/obsidian-to-jekyll 
+
+## ActivityPub support
+- [ActivityPub](https://www.w3.org/TR/activitypub/) is a W3C standard for social networking
+- Blog & wiki posts as [ActivityPub](https://www.w3.org/TR/activitypub/) activities
+
+## RSS feed
+- using Jekyll or Pelican (?)
