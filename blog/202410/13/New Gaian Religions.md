@@ -1,4 +1,4 @@
-We need one of those [[New Religions]] 
+We need one of those [[New Gaian Religions]] 
 Not a theistic one. 
 
 They've always functioned as replicators. Useful values and beliefs, thematic social ideas and behaviours to help us survive, packaged into self contained, defensive, replicating social structure.
